@@ -1,7 +1,9 @@
 # ArtchidServer
+```
+Put up a mongo db setup on your system
+Node version 8.6 and above
 
-Put up a mongo db set on your system
-
+```
 ### Getting Started
 
 There are two methods for getting started with this repo.
